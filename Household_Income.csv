@@ -1,0 +1,161 @@
+ID Household Income Bucket,Household Income Bucket,ID Year,Year,Household Income,Household Income Moe,Geography,ID Geography,Slug Geography,share
+7,"$40,000-$44,999",2017,"2017",1744,310,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.03690068130845076
+15,"$200,000+",2017,"2017",4255,456.00000000000006,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.09003004527950573
+14,"$150,000-$199,999",2017,"2017",2406,341,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.050907705979433795
+1,"$10,000-$14,999",2017,"2017",5768114,16409,"United States","01000US","united-states",0.04854255663627467
+13,"$125,000-$149,999",2017,"2017",2146,382,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04540645761922898
+2,"$15,000-$19,999",2017,"2017",5727180,16801,"United States","01000US","united-states",0.04819806951043956
+12,"$100,000-$124,999",2017,"2017",2983,410,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.06311624560958064
+3,"$20,000-$24,999",2017,"2017",5910725,17864,"United States","01000US","united-states",0.04974272406438996
+11,"$75,000-$99,999",2017,"2017",4353,523,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.09210359273835217
+4,"$25,000-$29,999",2017,"2017",5619002,16113.000000000002,"United States","01000US","united-states",0.04728767892318714
+10,"$60,000-$74,999",2017,"2017",4077,534,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.08626380601751936
+5,"$30,000-$34,999",2017,"2017",5711286,15891,"United States","01000US","united-states",0.04806431081649264
+9,"$50,000-$59,999",2017,"2017",2914,481,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.06165629892937243
+6,"$35,000-$39,999",2017,"2017",5332778,16488,"United States","01000US","united-states",0.044878911563412165
+8,"$45,000-$49,999",2017,"2017",1124,257,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.023782319834116203
+7,"$40,000-$44,999",2017,"2017",5354520,15415.000000000002,"United States","01000US","united-states",0.04506188510838473
+0,"< $10,000",2017,"2017",7942251,17662,"United States","01000US","united-states",0.06683938094618261
+8,"$45,000-$49,999",2017,"2017",4725195,16890,"United States","01000US","united-states",0.03976569220111494
+6,"$35,000-$39,999",2017,"2017",1896,416,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.040116795734416656
+9,"$50,000-$59,999",2017,"2017",9181800,20965,"United States","01000US","united-states",0.07727101900602984
+5,"$30,000-$34,999",2017,"2017",2258,380,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.0477762261436249
+10,"$60,000-$74,999",2017,"2017",11818514,30722.999999999996,"United States","01000US","united-states",0.0994607397152007
+4,"$25,000-$29,999",2017,"2017",2490,390,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.052685032372730735
+11,"$75,000-$99,999",2017,"2017",14636046,49159,"United States","01000US","united-states",0.12317216544023252
+3,"$20,000-$24,999",2017,"2017",2102,364,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04447547712750201
+12,"$100,000-$124,999",2017,"2017",10273788,47842,"United States","01000US","united-states",0.08646083206037174
+2,"$15,000-$19,999",2017,"2017",2356,455,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04984977360247133
+13,"$125,000-$149,999",2017,"2017",6428069,37952,"United States","01000US","united-states",0.054096521583030695
+1,"$10,000-$14,999",2017,"2017",3568,508,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.07549405442004146
+14,"$150,000-$199,999",2017,"2017",6931136,37236,"United States","01000US","united-states",0.05833016854967192
+0,"< $10,000",2017,"2017",6590,734,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.13943548728365282
+15,"$200,000+",2017,"2017",7465517,42206,"United States","01000US","united-states",0.06282734387558418
+0,"< $10,000",2016,"2016",8243664,18695,"United States","01000US","united-states",0.07002996536493092
+7,"$40,000-$44,999",2016,"2016",1629,274,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.03481810798101996
+8,"$45,000-$49,999",2016,"2016",4775997,15270.999999999998,"United States","01000US","united-states",0.04057211750661041
+11,"$75,000-$99,999",2016,"2016",4668,489.99999999999994,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.09977343649809772
+4,"$25,000-$29,999",2016,"2016",5771744,15215.999999999998,"United States","01000US","united-states",0.04903099306512831
+6,"$35,000-$39,999",2016,"2016",1604,294,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.03428376009917497
+9,"$50,000-$59,999",2016,"2016",9199672,22260,"United States","01000US","united-states",0.0781512579271456
+13,"$125,000-$149,999",2016,"2016",1935,305,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04135852605480272
+2,"$15,000-$19,999",2016,"2016",5958713,16103.999999999998,"United States","01000US","united-states",0.050619295620195535
+5,"$30,000-$34,999",2016,"2016",2473,405,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05285769247210704
+10,"$60,000-$74,999",2016,"2016",11714107,31280.999999999996,"United States","01000US","united-states",0.09951139535661507
+10,"$60,000-$74,999",2016,"2016",3845,529,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.08218270422776044
+5,"$30,000-$34,999",2016,"2016",5856803,14451,"United States","01000US","united-states",0.049753569679601636
+4,"$25,000-$29,999",2016,"2016",2326,408,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04971572692685846
+11,"$75,000-$99,999",2016,"2016",14361853,53518,"United States","01000US","united-states",0.12200401037284261
+14,"$150,000-$199,999",2016,"2016",2628,424,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05617064933954602
+1,"$10,000-$14,999",2016,"2016",6000362,20040,"United States","01000US","united-states",0.050973104075693484
+3,"$20,000-$24,999",2016,"2016",2002,341,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04279057837814731
+12,"$100,000-$124,999",2016,"2016",9856915,44470,"United States","01000US","united-states",0.08373454037610802
+9,"$50,000-$59,999",2016,"2016",2878,437.00000000000006,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.06151412815799598
+6,"$35,000-$39,999",2016,"2016",5404041,15856,"United States","01000US","united-states",0.04590735431000908
+2,"$15,000-$19,999",2016,"2016",2408,439.99999999999994,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05146838797931005
+13,"$125,000-$149,999",2016,"2016",6028908,33311,"United States","01000US","united-states",0.051215602483113694
+12,"$100,000-$124,999",2016,"2016",2636,376,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.056341640661736414
+3,"$20,000-$24,999",2016,"2016",6094929,15803,"United States","01000US","united-states",0.051776451195938246
+1,"$10,000-$14,999",2016,"2016",3251,432,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.06948659855512333
+14,"$150,000-$199,999",2016,"2016",6369156,36256,"United States","01000US","united-states",0.05410601088106477
+8,"$45,000-$49,999",2016,"2016",1272,252.00000000000003,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.027187620228273417
+7,"$40,000-$44,999",2016,"2016",5408687,15420.000000000002,"United States","01000US","united-states",0.045946822102374885
+0,"< $10,000",2016,"2016",7532,820,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.1609883298422605
+15,"$200,000+",2016,"2016",6670686,37386,"United States","01000US","united-states",0.05666750968262772
+15,"$200,000+",2016,"2016",3699,412,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.07906211259778566
+8,"$45,000-$49,999",2015,"2015",4807116,14457,"United States","01000US","united-states",0.041112357052589664
+0,"< $10,000",2015,"2015",8421482,18763,"United States","01000US","united-states",0.07202384442063743
+15,"$200,000+",2015,"2015",6139038,32967,"United States","01000US","united-states",0.05250348071804715
+1,"$10,000-$14,999",2015,"2015",3378,486,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.07220725920225728
+14,"$150,000-$199,999",2015,"2015",6010418,32124,"United States","01000US","united-states",0.05140347161402218
+2,"$15,000-$19,999",2015,"2015",2615,468.00000000000006,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05589756744046856
+13,"$125,000-$149,999",2015,"2015",5775363,31309.000000000004,"United States","01000US","united-states",0.04939318829924541
+3,"$20,000-$24,999",2015,"2015",2022,332,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04322175195588047
+12,"$100,000-$124,999",2015,"2015",9581177,47995,"United States","01000US","united-states",0.08194201467325937
+4,"$25,000-$29,999",2015,"2015",2284,328,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.048822196571330856
+11,"$75,000-$99,999",2015,"2015",14166538,49496,"United States","01000US","united-states",0.12115783527068609
+5,"$30,000-$34,999",2015,"2015",2419,385,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.0517079218502843
+10,"$60,000-$74,999",2015,"2015",11634324,35808,"United States","01000US","united-states",0.09950133975412975
+6,"$35,000-$39,999",2015,"2015",1582,371,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.033816425120772944
+9,"$50,000-$59,999",2015,"2015",9192915,22197,"United States","01000US","united-states",0.07862144450729029
+7,"$40,000-$44,999",2015,"2015",1540,292,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.03291864392287632
+0,"< $10,000",2015,"2015",7947,792,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.16987302808772606
+8,"$45,000-$49,999",2015,"2015",1849,356,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.03952374845025865
+7,"$40,000-$44,999",2015,"2015",5428388,16329,"United States","01000US","united-states",0.04642572088462044
+9,"$50,000-$59,999",2015,"2015",2723,349,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05820614766363131
+6,"$35,000-$39,999",2015,"2015",5436927,15238,"United States","01000US","united-states",0.04649874978945071
+10,"$60,000-$74,999",2015,"2015",3653,488,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.07808558847419948
+5,"$30,000-$34,999",2015,"2015",5951926,15584.000000000002,"United States","01000US","united-states",0.05090322489879416
+11,"$75,000-$99,999",2015,"2015",4798,505,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.10256081398828609
+4,"$25,000-$29,999",2015,"2015",5852048,17935,"United States","01000US","united-states",0.05004902874507152
+12,"$100,000-$124,999",2015,"2015",2379,368,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.050852892138001794
+3,"$20,000-$24,999",2015,"2015",6227524,15413,"United States","01000US","united-states",0.05326024798269303
+13,"$125,000-$149,999",2015,"2015",2145,360,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04585096832114916
+2,"$15,000-$19,999",2015,"2015",6139644,16066,"United States","01000US","united-states",0.05250866346969572
+14,"$150,000-$199,999",2015,"2015",2068,359,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04420503612500534
+1,"$10,000-$14,999",2015,"2015",6161477,15350.000000000002,"United States","01000US","united-states",0.05269538791976707
+15,"$200,000+",2015,"2015",3380,418,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.0722500106878714
+0,"< $10,000",2014,"2014",8008,671,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.17141878585495335
+8,"$45,000-$49,999",2014,"2014",1936,384,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04144190427262608
+4,"$25,000-$29,999",2014,"2014",2458,391,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.052615806147786624
+2,"$15,000-$19,999",2014,"2014",3029,401,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.06483859919513657
+7,"$40,000-$44,999",2014,"2014",5431366,14063,"United States","01000US","united-states",0.0467370705027021
+9,"$50,000-$59,999",2014,"2014",2619,386,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05606216285640894
+1,"$10,000-$14,999",2014,"2014",3276,470.99999999999994,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.07012586694066272
+11,"$75,000-$99,999",2014,"2014",14125429,47784,"United States","01000US","united-states",0.12154974845258316
+6,"$35,000-$39,999",2014,"2014",5456901,15294,"United States","01000US","united-states",0.04695679995847556
+10,"$60,000-$74,999",2014,"2014",3531,445,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.07558438222450552
+5,"$30,000-$34,999",2014,"2014",2361,400,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.0505394297456974
+0,"< $10,000",2014,"2014",8395338,16627,"United States","01000US","united-states",0.07224214019088643
+5,"$30,000-$34,999",2014,"2014",5933726,15136.999999999998,"United States","01000US","united-states",0.05105989366316255
+11,"$75,000-$99,999",2014,"2014",4548,547,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.09735422553300796
+13,"$125,000-$149,999",2014,"2014",5713601,31533,"United States","01000US","united-states",0.04916571130748862
+10,"$60,000-$74,999",2014,"2014",11540101,29474.000000000004,"United States","01000US","united-states",0.09930292196204472
+4,"$25,000-$29,999",2014,"2014",5936983,15704.000000000002,"United States","01000US","united-states",0.05108792024775053
+12,"$100,000-$124,999",2014,"2014",2267,373,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04852727117047692
+6,"$35,000-$39,999",2014,"2014",1594,367,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.03412107200958986
+3,"$20,000-$24,999",2014,"2014",2118,341,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.045337785769329564
+3,"$20,000-$24,999",2014,"2014",6176944,17017,"United States","01000US","united-states",0.05315279198994189
+13,"$125,000-$149,999",2014,"2014",2061,333,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04411764705882353
+15,"$200,000+",2014,"2014",5845378,32351,"United States","01000US","united-states",0.05029965642178115
+9,"$50,000-$59,999",2014,"2014",9179218,24284,"United States","01000US","united-states",0.07898745155927113
+2,"$15,000-$19,999",2014,"2014",6225984,18669,"United States","01000US","united-states",0.05357478268941832
+14,"$150,000-$199,999",2014,"2014",2077,346,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.0444601421354568
+7,"$40,000-$44,999",2014,"2014",1590,352,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.034035448240431546
+14,"$150,000-$199,999",2014,"2014",5857717,33034,"United States","01000US","united-states",0.05040583389406581
+1,"$10,000-$14,999",2014,"2014",6189386,15777,"United States","01000US","united-states",0.05325985578037594
+15,"$200,000+",2014,"2014",3243,401,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.0694194708451066
+12,"$100,000-$124,999",2014,"2014",9410154,45348,"United States","01000US","united-states",0.08097466290050867
+8,"$45,000-$49,999",2014,"2014",4792866,14866,"United States","01000US","united-states",0.041242758479543416
+4,"$25,000-$29,999",2013,"2013",5929562,13959.000000000002,"United States","01000US","united-states",0.05128925630586141
+1,"$10,000-$14,999",2013,"2013",6214548,16925,"United States","01000US","united-states",0.05375431527608252
+10,"$60,000-$74,999",2013,"2013",3678,365,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.07875128468653649
+5,"$30,000-$34,999",2013,"2013",2554,492.00000000000006,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05468482356971566
+1,"$10,000-$14,999",2013,"2013",2904,426,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.06217882836587873
+11,"$75,000-$99,999",2013,"2013",14107031,52951,"United States","01000US","united-states",0.12202235657097985
+14,"$150,000-$199,999",2013,"2013",5651848,31873,"United States","01000US","united-states",0.04888709835123913
+11,"$75,000-$99,999",2013,"2013",4201,463.99999999999994,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.08994946899623159
+7,"$40,000-$44,999",2013,"2013",5465384,13996,"United States","01000US","united-states",0.04727423050571932
+6,"$35,000-$39,999",2013,"2013",1552,352,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.03323055841041452
+9,"$50,000-$59,999",2013,"2013",9249964,20676,"United States","01000US","united-states",0.08000991884661819
+2,"$15,000-$19,999",2013,"2013",3309,472,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.07085046248715314
+12,"$100,000-$124,999",2013,"2013",2242,384,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.048004453579993146
+2,"$15,000-$19,999",2013,"2013",6236898,17145,"United States","01000US","united-states",0.05394763729184625
+0,"< $10,000",2013,"2013",8380364,19177,"United States","01000US","united-states",0.07248809222880441
+7,"$40,000-$44,999",2013,"2013",1957,366,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.041902192531688934
+15,"$200,000+",2013,"2013",5532628,32847,"United States","01000US","united-states",0.04785587460540684
+13,"$125,000-$149,999",2013,"2013",2032,303,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.043508050702295305
+12,"$100,000-$124,999",2013,"2013",9285899,44286,"United States","01000US","united-states",0.08032074777889871
+3,"$20,000-$24,999",2013,"2013",2389,392,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05115193559438164
+6,"$35,000-$39,999",2013,"2013",5410067,15255.999999999998,"United States","01000US","united-states",0.04679575202938813
+8,"$45,000-$49,999",2013,"2013",1705,289,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.03650650907845152
+14,"$150,000-$199,999",2013,"2013",2016,305,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.04316546762589928
+3,"$20,000-$24,999",2013,"2013",6231706,17720,"United States","01000US","united-states",0.053902727765857646
+10,"$60,000-$74,999",2013,"2013",11494081,28807.999999999996,"United States","01000US","united-states",0.09942098023586428
+8,"$45,000-$49,999",2013,"2013",4847697,14804,"United States","01000US","united-states",0.04193138952356944
+4,"$25,000-$29,999",2013,"2013",2407,465.99999999999994,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05153734155532717
+15,"$200,000+",2013,"2013",3121,376,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.06682511133949982
+9,"$50,000-$59,999",2013,"2013",2686,366,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.05751113394998287
+13,"$125,000-$149,999",2013,"2013",5572340,31574,"United States","01000US","united-states",0.04819937366088824
+5,"$30,000-$34,999",2013,"2013",6000199,15505.999999999998,"United States","01000US","united-states",0.05190024902297562
+0,"< $10,000",2013,"2013",7951,661,"Hamilton Heights, Manhattanville & West Harlem PUMA, NY","79500US3603802","hamilton-heights-manhattanville-&-west-harlem-puma-ny",0.1702423775265502
